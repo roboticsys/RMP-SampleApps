@@ -59,7 +59,7 @@ void UserLimitDigitalInputActionMain();
 void UserLimitGainChangeBasedOnPositionMain();
 void UserLimitPositionOneConditionMain();
 void UserLimitStateActionMain();
-
+void UserLimitDigitalInputTwoConditionMain();
 void UserLimitPositionOneConditionMain();
 void UserLimitDigitalInputOneConditionMain();
 

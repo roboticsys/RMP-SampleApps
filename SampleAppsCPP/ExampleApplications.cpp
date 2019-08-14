@@ -49,8 +49,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
     //UserLimitMain();
 
-    //UserLimitPositionOneConditionMain();
-    UserLimitDigitalInputOneConditionMain();
+    UserLimitPositionOneConditionMain();
+    //UserLimitDigitalInputTwoConditionMain();
 
     return 0;
 }
