@@ -1,8 +1,0 @@
-C:\repos\nikoRapidSoftware\RapidStuff\SampleAppsCS\obj\x86\Debug\SampleAppsCS.csproj.CoreCompileInputs.cache
-C:\repos\nikoRapidSoftware\Debug\SampleAppsCS.exe.config
-C:\repos\nikoRapidSoftware\Debug\SampleAppsCS.exe
-C:\repos\nikoRapidSoftware\Debug\SampleAppsCS.pdb
-C:\repos\nikoRapidSoftware\RapidStuff\SampleAppsCS\obj\x86\Debug\SampleAppsCS.csproj.CopyComplete
-C:\repos\nikoRapidSoftware\RapidStuff\SampleAppsCS\obj\x86\Debug\SampleAppsCS.exe
-C:\repos\nikoRapidSoftware\RapidStuff\SampleAppsCS\obj\x86\Debug\SampleAppsCS.pdb
-C:\repos\nikoRapidSoftware\RapidStuff\SampleAppsCS\obj\x86\Debug\SampleAppsCS.csprojAssemblyReference.cache
