@@ -11,3 +11,5 @@ This repository contains examples of how to use the API.
 
 [Documentation](https://docs.roboticsys.com/)
 
+<img src="https://roboticsys.com/wp-content/uploads/RoboticSys_Logo_small.png">
+
